@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+}
+div {
+    padding: 0 10px;
+}
+
+img {
+    max-width: 100%;
+}
+
+.product-block {
+    display: flex;
+    padding: 10px;
+    margin: 0 0 30px;
+}
+
+.img-holder {
+    padding: 20px;
+    border: 1px solid;
+}
